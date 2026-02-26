@@ -1,0 +1,5 @@
+{
+  "name": "NetScout: Community Wi-Fi Finder",
+  "description": "Find nearby public Wi-Fi hotspots and community-shared passwords using real-time location data.",
+  "requestFramePermissions": ["geolocation"]
+}
